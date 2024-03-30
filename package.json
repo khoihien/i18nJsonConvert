@@ -1,0 +1,13 @@
+{
+  "name": "i18njsonconvert",
+  "version": "1.0.0",
+  "description": "Convert text to i18n json file - [key]-[message]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
